@@ -1,0 +1,23 @@
+baseURL: 'https://awesome-care-givers-23455.web.app'
+languageCode: en-us
+title: ALS Life Management
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
+    - identifier: about
+      name: About Us
+      url: /about/
+      weight: 30
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 30
+    - identifier: Posts
+      name: Posts
+      url: /posts/
+      weight: 30
